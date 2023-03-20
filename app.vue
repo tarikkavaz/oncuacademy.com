@@ -44,7 +44,7 @@
             <ul role="list" class="mt-8 space-y-8 text-gray-600">
               <li class="flex gap-x-3">
                 <EyeIcon class="flex-none w-5 h-5 mt-1 text-oncured-600" aria-hidden="true" />
-                <span><strong class="font-semibold text-gray-900">Vision.</strong> We will be an academy that serves as a beacon of hope and inspiration for all who seek to grow, develop, and succeed. An academy that values diversity, equity, and inclusion and empowers learners to pursue their passions and interests with confidence and enthusiasm..</span>
+                <span><strong class="font-semibold text-gray-900">Vision.</strong> <p>e will be an academy that serves as a beacon of hope and inspiration for all who seek to grow, develop, and succeed. An academy that values diversity, equity, and inclusion and empowers learners to pursue their passions and interests with confidence and enthusiasm.</p></span>
               </li>
               <li class="flex gap-x-3">
                 <TrophyIcon class="flex-none w-5 h-5 mt-1 text-oncured-600" aria-hidden="true" />
@@ -84,30 +84,144 @@
             
             <ul role="list" class="mt-8 space-y-8 text-gray-600">
               <li class="flex gap-x-3">
-                <CloudArrowUpIcon class="flex-none w-5 h-5 mt-1 text-oncured-600" aria-hidden="true" />
-                <span><strong class="font-semibold text-gray-900">Push to deploy.</strong> Lorem ipsum, dolor sit amet consectetur adipisicing elit. Maiores impedit perferendis suscipit eaque, iste dolor cupiditate blanditiis ratione.</span>
+                <UserGroupIcon class="flex-none w-5 h-5 mt-1 text-oncured-600" aria-hidden="true" />
+                <span><strong class="font-semibold text-gray-900">Philosophy.</strong>
+                <p> At Öncü Academy, we believe that learning is not just a means to acquire knowledge, but a path towards wisdom. Our philosophy rests on two pillars: our name, Öncü (pioneer), and our commitment to esteeming wisdom for justice, freedom, and equality.</p>
+                <p>As pioneers, we are inspired by the spirit of exploration and discovery. We strive to foster a sense of curiosity and quest in our learners, encouraging them to push beyond the boundaries of what they know and discover new frontiers of knowledge. We believe that every individual has the potential to be a pioneer in their own right, and we seek to empower our learners to lead the way in their personal and professional lives.</p>
+                <p>At the same time, we recognize that knowledge alone is not enough. Without wisdom, knowledge can become a tool for oppression rather than liberation. That is why we believe in esteeming wisdom for justice, freedom, and equality. We believe that true wisdom comes from a deep understanding of ourselves, our communities, and the world around us. We strive to create a learning environment that fosters critical thinking, empathy, and social responsibility, so that our learners can use their knowledge to effect positive change in their communities and beyond.</p>
+                </span>
+
               </li>
               <li class="flex gap-x-3">
-                <LockClosedIcon class="flex-none w-5 h-5 mt-1 text-oncured-600" aria-hidden="true" />
-                <span><strong class="font-semibold text-gray-900">Values.</strong> Respect for human dignity: We treat all individuals with dignity and respect, regardless of their background, race, religion, gender, or sexual orientation.</span>
+                <BuildingLibraryIcon class="flex-none w-5 h-5 mt-1 text-oncured-600" aria-hidden="true" />
+                <span><strong class="font-semibold text-gray-900">Epistemology.</strong> 
+                  <p>At Öncü Academy, we believe in a dynamic and evolving approach to knowledge that emphasizes collaboration, innovation, and critical thinking. We view knowledge as a constantly changing and expanding realm, one that requires ongoing curiosity, exploration, and reflection. Our learning practice rests on the firm belief that knowledge is not just a product, but a process of discovery and inquiry that involves diverse perspectives and experiences. As such, we strive to create a learning environment that fosters intellectual openness, inclusivity, and respect for different ways of knowing.</p></span>
               </li>
               <li class="flex gap-x-3">
-                <ServerIcon class="flex-none w-5 h-5 mt-1 text-oncured-600" aria-hidden="true" />
-                <span><strong class="font-semibold text-gray-900">Database backups.</strong> Ac tincidunt sapien vehicula erat auctor pellentesque rhoncus. Et magna sit morbi lobortis.</span>
+                <BookOpenIcon class="flex-none w-5 h-5 mt-1 text-oncured-600" aria-hidden="true" />
+                <span><strong class="font-semibold text-gray-900">Program Design and Pedagogical Approaches for Effective Learning.</strong> 
+                  <p>We have developed our learning programs based on interdisciplinary interests and needs, drawing from various fields such as business and management studies, political economy, social theory, cultural studies, history, philosophy, computing science, urban studies, health sciences, law, finance and economics, sports, travel and tourism studies. </p>
+                    <p>Our classroom teaching methods are centered on active learning and critical thinking, which involves encouraging participants to think deeply and critically about the subject matter at hand. We employ a range of techniques such as case studies, group discussions, debates, problem-solving activities, and experiential learning to facilitate this process.</p></span>
+              </li>
+              <li class="flex gap-x-3">
+                <UserIcon class="flex-none w-5 h-5 mt-1 text-oncured-600" aria-hidden="true" />
+                <span><strong class="font-semibold text-gray-900">Learners of Öncü Academy.</strong> 
+                  <ul class="list-disc">
+                    <li>Individuals seeking personal and professional development through interdisciplinary learning.</li>
+                    <li>Small to medium-sized enterprises looking to improve their business operations and competitiveness.</li>
+                    <li>Non-profit organizations seeking to enhance their social impact through strategic planning and management.</li>
+                    <li>Government agencies and policymakers seeking to improve public policy and governance through evidence-based research and analysis.</li>
+                  </ul>
+                </span>
               </li>
             </ul>
-            <p class="mt-8">Et vitae blandit facilisi magna lacus commodo. Vitae sapien duis odio id et. Id blandit molestie auctor fermentum dignissim. Lacus diam tincidunt ac cursus in vel. Mauris varius vulputate et ultrices hac adipiscing egestas. Iaculis convallis ac tempor et ut. Ac lorem vel integer orci.</p>
-            <h2 class="mt-16 text-2xl font-bold tracking-tight text-gray-900">No server? No problem.</h2>
-            <p class="mt-6">Id orci tellus laoreet id ac. Dolor, aenean leo, ac etiam consequat in. Convallis arcu ipsum urna nibh. Pharetra, euismod vitae interdum mauris enim, consequat vulputate nibh. Maecenas pellentesque id sed tellus mauris, ultrices mauris. Tincidunt enim cursus ridiculus mi. Pellentesque nam sed nullam sed diam turpis ipsum eu a sed convallis diam.</p>
           </div>
         </div>
       </div>
     </div>
   </div>
+
+  <hr>
+
+  <div class="py-24 bg-white sm:py-32">
+    <div class="px-6 mx-auto max-w-7xl lg:px-8">
+      <div class="max-w-2xl mx-auto lg:mx-0 lg:max-w-none">
+        
+        <h2 class="mt-2 text-3xl font-bold tracking-tight text-gray-900 sm:text-4xl">Programs: Keynotes, MBA Certificates, Modules, and Courses </h2>
+        <h3 class="mt-2 text-2xl font-bold tracking-tight text-gray-900 sm:text-3xl">Track One: Business, Economics, and Society</h3>
+        <h4 class="mt-8 text-xl font-bold tracking-tight text-gray-900 sm:text-2xl">Keynotes</h4>
+
+        <div class="grid max-w-xl grid-cols-1 gap-8 mt-10 text-base leading-7 text-gray-700 lg:max-w-none lg:grid-cols-2">
+          <div>
+            <p><strong>Horizon Tour for Leaders:</strong> This keynote speech provides leaders with a comprehensive understanding of global political economy and its impact on business and society. Through a series of interactive sessions and case studies, participants will gain insights into emerging trends, risks, and opportunities that can help them make informed decisions and navigate an increasingly complex and uncertain world.</p>
+          </div>
+          <div>
+            <p><strong>Management in the Age of Uncertainty and Disruptions:</strong> In this 1-hour keynote speech, our expert will share practical strategies and tools to help managers navigate the uncertain and disruptive business environment. The 45-minute presentation will be followed by a 15-minute Q&A session, giving you the chance to interact with the speaker and ask your burning questions.</p>
+          </div>
+        </div>
+        <div class="grid max-w-xl grid-cols-1 gap-8 mt-10 text-base leading-7 text-gray-700 lg:max-w-none lg:grid-cols-2">
+          <div>
+            <p><strong>Cooperation in the Age of Great Power Competition:</strong> In this 1-hour keynote speech, our expert will explore the challenges and opportunities of cooperation in the context of great power competition. The 45-minute presentation will be followed by a 15-minute Q&A session, giving you the chance to interact with the speaker and ask your burning questions.</p>
+          </div>
+          <div>
+            <p><strong>Risks: Should I Take It or Not?:</strong> In this 1-hour keynote speech, our expert will delve into the complex world of risk management, offering insights on how to identify, assess, and mitigate risks in various contexts. The 45-minute presentation will be followed by a 15-minute Q&A session, giving you the chance to interact with the speaker and ask your burning questions.</p>
+          </div>
+        </div>
+        <h4 class="mt-8 text-xl font-bold tracking-tight text-gray-900 sm:text-2xl">MBA Certificate Programs</h4>
+        <div class="grid max-w-xl grid-cols-1 gap-8 mt-10 text-base leading-7 text-gray-700 lg:max-w-none lg:grid-cols-2">
+          <div>
+            <p><strong>Mini Executive MBA for Disruptive Times:</strong> A certificate program that focuses on the challenges of managing in an ever-changing business landscape, and provides strategies and tools to navigate uncertainty and disruptions</p>
+          </div>
+          <div>
+            <p><strong>Disruptive Innovation MBA</strong> Learn how to identify and capitalize on disruptive technologies and ideas to create new business models and stay ahead of the competition.</p>
+          </div>
+        </div>
+        <div class="grid max-w-xl grid-cols-1 gap-8 mt-10 text-base leading-7 text-gray-700 lg:max-w-none lg:grid-cols-2">
+          <div>
+            <p><strong>xxx:</strong> xxx</p>
+          </div>
+          <div>
+            <p><strong>xxx</strong> xxx.</p>
+          </div>
+        </div>
+        <div class="grid max-w-xl grid-cols-1 gap-8 mt-10 text-base leading-7 text-gray-700 lg:max-w-none lg:grid-cols-2">
+          <div>
+            <p><strong>xxx:</strong> xxx</p>
+          </div>
+          <div>
+            <p><strong>xxx</strong> xxx.</p>
+          </div>
+        </div>
+        <div class="grid max-w-xl grid-cols-1 gap-8 mt-10 text-base leading-7 text-gray-700 lg:max-w-none lg:grid-cols-2">
+          <div>
+            <p><strong>xxx:</strong> xxx</p>
+          </div>
+          <div>
+            <p><strong>xxx</strong> xxx.</p>
+          </div>
+        </div>
+        <div class="grid max-w-xl grid-cols-1 gap-8 mt-10 text-base leading-7 text-gray-700 lg:max-w-none lg:grid-cols-2">
+          <div>
+            <p><strong>xxx:</strong> xxx</p>
+          </div>
+          <div>
+            <p><strong>xxx</strong> xxx.</p>
+          </div>
+        </div>
+        <div class="grid max-w-xl grid-cols-1 gap-8 mt-10 text-base leading-7 text-gray-700 lg:max-w-none lg:grid-cols-2">
+          <div>
+            <p><strong>xxx:</strong> xxx</p>
+          </div>
+          <div>
+            <p><strong>xxx</strong> xxx.</p>
+          </div>
+        </div>
+        <div class="grid max-w-xl grid-cols-1 gap-8 mt-10 text-base leading-7 text-gray-700 lg:max-w-none lg:grid-cols-2">
+          <div>
+            <p><strong>xxx:</strong> xxx</p>
+          </div>
+          <div>
+            <p><strong>xxx</strong> xxx.</p>
+          </div>
+        </div>
+
+
+      </div>
+    </div>
+    <div class="relative pt-16 overflow-hidden lg:pt-20">
+      <div class="px-6 mx-auto max-w-7xl lg:px-8">
+        <img class="mb-[-12%] rounded-xl shadow-2xl ring-1 ring-gray-900/10" src="/images/mj5.png" alt="" />
+        <div class="relative" aria-hidden="true">
+          <div class="absolute -inset-x-20 bottom-0 bg-gradient-to-t from-white pt-[7%]" />
+        </div>
+      </div>
+    </div>
+  </div>
+  
 </template>
 
 <script setup>
-import { CloudArrowUpIcon, EyeIcon, TrophyIcon, LockClosedIcon, ServerIcon } from '@heroicons/vue/20/solid'
+import { EyeIcon, TrophyIcon, UserGroupIcon, BuildingLibraryIcon, BookOpenIcon, UserIcon } from '@heroicons/vue/20/solid'
 useServerSeoMeta({
   title: 'Oncu Academy',
   ogTitle: 'Oncu Academy',
