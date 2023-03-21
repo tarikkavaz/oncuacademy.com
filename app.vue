@@ -12,7 +12,7 @@
           <h1 class="mt-24 text-4xl font-bold tracking-tight text-gray-900 sm:mt-10 sm:text-6xl">Öncü Academy</h1>
           <h2 class="mt-6 text-lg leading-8 text-gray-600">We strive to foster a sense of curiosity and quest in our learners, encouraging them to push beyond the boundaries of what they know and discover new frontiers of knowledge.</h2>
           <div class="flex items-center mt-10 gap-x-6">
-            <a href="#" class="rounded-md bg-oncured-600 px-3.5 py-2.5 text-sm font-semibold text-white shadow-sm hover:bg-oncured-500 focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-oncured-600">Learn more</a>
+            <a href="#cta" class="rounded-md bg-oncured-600 px-3.5 py-2.5 text-sm font-semibold text-white shadow-sm hover:bg-oncured-500 focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-oncured-600">Learn more</a>
             <!-- <a href="#" class="text-sm font-semibold leading-6 text-gray-900">Learn more <span aria-hidden="true">→</span></a> -->
           </div>
         </div>
@@ -335,17 +335,36 @@
 
       </div>
     </div>
-    <div class="relative pt-16 overflow-hidden lg:pt-20">
+    <!-- <div class="relative pt-16 overflow-hidden lg:pt-20">
       <div class="px-6 mx-auto max-w-7xl lg:px-8">
         <img class="mb-[-12%] rounded-xl shadow-2xl ring-1 ring-gray-900/10" src="/images/mj5.png" alt="" />
         <div class="relative" aria-hidden="true">
           <div class="absolute -inset-x-20 bottom-0 bg-gradient-to-t from-white pt-[7%]" />
         </div>
       </div>
+    </div> -->
+  </div>
+
+  <div class="relative bg-oncured-900" id="cta">
+    <div class="relative overflow-hidden bg-oncured-600 h-80 md:absolute md:left-0 md:h-full md:w-1/3 lg:w-1/2">
+      <img class="object-cover w-full h-full" src="/images/mj6.png" alt="">
     </div>
+    <div class="relative py-24 mx-auto max-w-7xl sm:py-32 lg:py-40 lg:px-8">
+      <div class="pl-6 pr-6 md:ml-auto md:w-2/3 md:pl-16 lg:w-1/2 lg:pl-24 lg:pr-0 xl:pl-32">
+        <h2 class="text-base font-semibold leading-7 text-oncured-400">Get informed</h2>
+        <p class="mt-2 text-3xl font-bold tracking-tight text-white sm:text-4xl">We’re here to help</p>
+        
+        <div class="inline-block mt-8 mr-12">
+          <a href="tel:00905325843293" class="inline-flex rounded-md bg-white/20 px-3.5 py-2.5 text-sm font-semibold text-white shadow-sm hover:bg-white/30 focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-white">+90 532 584 32 93</a>
+        </div>
+        <div class="inline-block mt-8">
+          <a href="mailto:info@oncuacademy.com" class="inline-flex rounded-md bg-white/20 px-3.5 py-2.5 text-sm font-semibold text-white shadow-sm hover:bg-white/30 focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-white">info@oncuacademy.com</a>
+        </div>
+      </div>
+    </div>
+  </div>
 
-
-    <footer class="bg-white">
+  <footer class="bg-white">
   <div class="px-6 py-12 mx-auto max-w-7xl md:flex md:items-center md:justify-between lg:px-8">
     <div class="flex justify-center space-x-6 md:order-2">
       <a href="#" class="text-gray-400 hover:text-gray-500">
@@ -389,9 +408,6 @@
   </div>
 </footer>
 
-
-
-  </div>
 
 </template>
 
