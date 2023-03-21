@@ -5,6 +5,9 @@ export default defineNuxtConfig({
   experimental: {
     payloadExtraction: false
   },
+  generate: {
+    dir: 'www'
+  },
   head: {
     htmlAttrs: {
       lang: 'en'
