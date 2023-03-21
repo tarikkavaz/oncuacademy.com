@@ -5,9 +5,7 @@
         <div class="max-w-2xl mx-auto lg:mx-0">
           <img class="h-80" src="/images/logo.png" alt="Your Company" />
           <div class="hidden sm:mt-32 sm:flex lg:mt-16">
-            <!-- <div class="relative px-3 py-1 text-sm leading-6 text-gray-500 rounded-full ring-1 ring-gray-900/10 hover:ring-gray-900/20">
-              Detaylı bilgi almak için  <a href="#" class="font-semibold text-oncured-600 whitespace-nowrap"><span class="absolute inset-0" aria-hidden="true" />iletişime geçin. <span aria-hidden="true">&rarr;</span></a>
-            </div> -->
+            
           </div>
           <h1 class="mt-24 text-4xl font-bold tracking-tight text-gray-900 sm:mt-10 sm:text-6xl">Öncü Academy</h1>
           <h2 class="mt-6 text-lg leading-8 text-gray-600">We strive to foster a sense of curiosity and quest in our learners, encouraging them to push beyond the boundaries of what they know and discover new frontiers of knowledge.</h2>
@@ -18,7 +16,7 @@
         </div>
       </div>
       <div class="relative lg:col-span-5 lg:-mr-8 xl:absolute xl:inset-0 xl:left-1/2 xl:mr-0">
-        <img class="aspect-[3/2] w-full bg-gray-50 object-cover lg:absolute lg:inset-0 lg:aspect-auto lg:h-full" src="/images/mj2.png" alt="" />
+        <img class="aspect-[3/2] w-full bg-gray-50 object-cover lg:absolute lg:inset-0 lg:aspect-auto lg:h-full" src="/images/hero.png" alt="" />
       </div>
     </div>
   </div>
@@ -78,7 +76,7 @@
         </div>
       </div>
       <div class="p-12 -mt-12 -ml-12 lg:sticky lg:top-4 lg:col-start-2 lg:row-span-2 lg:row-start-1 lg:overflow-hidden lg:object-cover">
-        <img class="max-w-[40rem] rounded-xl bg-gray-900 shadow-xl ring-1 ring-gray-400/10 sm:w-[57rem]" src="/images/mj3.png" alt="" />
+        <img class="max-w-[40rem] rounded-xl bg-gray-900 shadow-xl ring-1 ring-gray-400/10 sm:w-[57rem]" src="/images/mj2.png" alt="" />
       </div>
       <div class="lg:col-span-2 lg:col-start-1 lg:row-start-2 lg:mx-auto lg:grid lg:w-full lg:max-w-7xl lg:grid-cols-2 lg:gap-x-8 lg:px-8">
         <div class="lg:pr-4">
@@ -127,7 +125,17 @@
 
   <div class="py-24 bg-white sm:py-32">
     <div class="px-6 mx-auto max-w-7xl lg:px-8">
-      <div class="max-w-2xl mx-auto lg:mx-0 lg:max-w-none">
+
+      <div class="relative pt-16 overflow-hidden lg:pt-20">
+        <div class="px-6 mx-auto max-w-7xl lg:px-8">
+          <img class="mb-[-12%] rounded-xl shadow-2xl ring-1 ring-gray-900/10" src="/images/mj5.png" alt="" />
+          <div class="relative" aria-hidden="true">
+            <div class="absolute -inset-x-20 bottom-0 bg-gradient-to-t from-white pt-[7%]" />
+          </div>
+        </div>
+      </div>
+      
+      <div class="max-w-2xl mx-auto mt-10 lg:mx-0 lg:max-w-none">
         
         <h2 class="mt-2 text-3xl font-bold tracking-tight text-gray-900 sm:text-4xl">Programs: Keynotes, MBA Certificates, Modules, and Courses </h2>
         <h3 class="mt-2 text-2xl font-bold tracking-tight text-gray-900 sm:text-3xl">Track One: Business, Economics, and Society</h3>
@@ -337,14 +345,6 @@
 
       </div>
     </div>
-    <!-- <div class="relative pt-16 overflow-hidden lg:pt-20">
-      <div class="px-6 mx-auto max-w-7xl lg:px-8">
-        <img class="mb-[-12%] rounded-xl shadow-2xl ring-1 ring-gray-900/10" src="/images/mj5.png" alt="" />
-        <div class="relative" aria-hidden="true">
-          <div class="absolute -inset-x-20 bottom-0 bg-gradient-to-t from-white pt-[7%]" />
-        </div>
-      </div>
-    </div> -->
   </div>
 
   <div class="relative bg-oncured-900" id="cta">
