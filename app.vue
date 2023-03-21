@@ -1,11 +1,5 @@
 <template>
   <div>
-    <div>
-      <Head>
-        <Title>Öncü Academy</Title>
-        <Meta name="description" content="We strive to foster a sense of curiosity and quest in our learners, encouraging them to push beyond the boundaries of what they know and discover new frontiers of knowledge." />
-      </Head>
-    </div>
     <!-- Hero -->
     <div class="relative bg-white" id="section-hero">
       <div class="mx-auto max-w-7xl lg:grid lg:grid-cols-12 lg:gap-x-8 lg:px-8">
@@ -271,12 +265,15 @@
     EyeIcon,
     TrophyIcon,
     UserGroupIcon,
-    BuildingLibraryIcon,
-    BookOpenIcon,
-    UserIcon,
     AcademicCapIcon,
     LightBulbIcon
   } from '@heroicons/vue/20/solid'
+  useHead({
+    title: 'Öncü Academy',
+    meta: [
+      { name: 'description', content: 'We strive to foster a sense of curiosity and quest in our learners, encouraging them to push beyond the boundaries of what they know and discover new frontiers of knowledge.' }
+    ]
+  })
 </script>
 
 <style>
