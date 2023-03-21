@@ -35,8 +35,8 @@
           </div>
         </div>
       </div>
-      <div class="p-12 -mt-12 -ml-60 lg:sticky lg:top-4 lg:col-start-1 lg:row-span-2 lg:row-start-0 lg:object-cover">
-        <img class="w-[48rem] max-w-none rounded-xl bg-gray-900 shadow-xl ring-1 ring-gray-400/10 sm:w-[57rem]" src="/images/mj4.png" alt="" />
+      <div class="relative p-12 -mt-12 lg:-ml-80 lg:sticky lg:top-4 lg:col-start-1 lg:row-span-1 lg:row-start-0 lg:object-cover">
+        <img class="absolute w-[48rem] max-w-none rounded-xl bg-gray-900 shadow-xl ring-1 ring-gray-400/10 sm:w-[57rem]" src="/images/mj4.png" alt="" />
       </div>
       <div class="lg:col-span-2 lg:col-start-2 lg:row-start-2 lg:mx-auto lg:grid lg:w-full lg:max-w-7xl lg:grid-cols-1 lg:gap-x-8 lg:px-8">
         <div class="lg:pr-4">
