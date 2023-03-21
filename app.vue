@@ -35,9 +35,14 @@
           </div>
         </div>
       </div>
-      <div class="relative p-12 -mt-12 lg:-ml-80 lg:sticky lg:top-4 lg:col-start-1 lg:row-span-1 lg:row-start-0 lg:object-cover">
-        <img class="absolute w-[48rem] max-w-none rounded-xl bg-gray-900 shadow-xl ring-1 ring-gray-400/10 sm:w-[57rem]" src="/images/mj4.png" alt="" />
+      <div class="p-12 -mt-4 lg:-ml-4 lg:sticky lg:top-4 lg:col-start-1 lg:row-span-2 lg:row-start-1 lg:overflow-hidden lg:object-cover">
+        <img class="max-w-[40rem] rounded-xl bg-gray-900 shadow-xl ring-1 ring-gray-400/10 sm:w-[57rem]" src="/images/mj4.png" alt="" />
       </div>
+<!-- 
+      <div class="p-12 -mt-12 -ml-12 lg:sticky lg:top-4 lg:col-start-2 lg:row-span-2 lg:row-start-1 lg:overflow-hidden lg:object-cover">
+        <img class="max-w-[40rem] rounded-xl bg-gray-900 shadow-xl ring-1 ring-gray-400/10 sm:w-[57rem]" src="/images/mj3.png" alt="" />
+      </div>
+-->
       <div class="lg:col-span-2 lg:col-start-2 lg:row-start-2 lg:mx-auto lg:grid lg:w-full lg:max-w-7xl lg:grid-cols-1 lg:gap-x-8 lg:px-8">
         <div class="lg:pr-4">
           <div class="max-w-xl text-base leading-7 text-gray-700 lg:max-w-lg">
@@ -58,9 +63,7 @@
                 </ul>
                 </span>
               </li>
-              
             </ul>
-            
           </div>
         </div>
       </div>
@@ -72,11 +75,10 @@
     <div class="grid max-w-2xl grid-cols-1 mx-auto gap-y-16 gap-x-8 lg:mx-0 lg:max-w-none lg:grid-cols-2 lg:items-start lg:gap-y-10">
       <div class="lg:col-span-2 lg:col-start-1 lg:row-start-1 lg:mx-auto lg:grid lg:w-full lg:max-w-7xl lg:grid-cols-2 lg:gap-x-8 lg:px-8">
         <div class="lg:pr-4">
-
         </div>
       </div>
       <div class="p-12 -mt-12 -ml-12 lg:sticky lg:top-4 lg:col-start-2 lg:row-span-2 lg:row-start-1 lg:overflow-hidden lg:object-cover">
-        <img class="w-[48rem] max-w-none rounded-xl bg-gray-900 shadow-xl ring-1 ring-gray-400/10 sm:w-[57rem]" src="/images/mj3.png" alt="" />
+        <img class="max-w-[40rem] rounded-xl bg-gray-900 shadow-xl ring-1 ring-gray-400/10 sm:w-[57rem]" src="/images/mj3.png" alt="" />
       </div>
       <div class="lg:col-span-2 lg:col-start-1 lg:row-start-2 lg:mx-auto lg:grid lg:w-full lg:max-w-7xl lg:grid-cols-2 lg:gap-x-8 lg:px-8">
         <div class="lg:pr-4">
@@ -406,7 +408,7 @@
       <p class="text-xs leading-5 text-center text-gray-500">&copy; 2023 Öncü Academy, Inc. All rights reserved.</p>
     </div>
   </div>
-</footer>
+  </footer>
 
 
 </template>
