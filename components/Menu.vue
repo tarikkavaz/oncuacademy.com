@@ -44,10 +44,10 @@
               </div>
               <div>
                 <h4 class="mt-2 text-sm font-semibold leading-6 text-gray-900">
-                  <a :href="post.href">
+                  <NuxtLink :to="post.href">
                     <span class="absolute inset-0" />
                     {{ post.title }}
-                  </a>
+                  </NuxtLink>
                 </h4>
                 <p class="mt-2 text-sm leading-6 text-gray-600">{{ post.description }}</p>
               </div>
