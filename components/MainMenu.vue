@@ -44,10 +44,6 @@
                 <div class="absolute inset-0 rounded-lg ring-1 ring-inset ring-gray-900/10" />
               </div>
               <div>
-                <div class="flex items-center gap-x-4">
-                  <time :datetime="post.datetime" class="text-sm leading-6 text-gray-600">{{ post.date }}</time>
-                  <a :href="post.category.href" class="relative z-10 rounded-full bg-gray-50 py-1.5 px-3 text-xs font-medium text-gray-600 hover:bg-gray-100">{{ post.category.title }}</a>
-                </div>
                 <h4 class="mt-2 text-sm font-semibold leading-6 text-gray-900">
                   <a :href="post.href">
                     <span class="absolute inset-0" />
@@ -102,7 +98,7 @@ const recentPosts = [
     datetime: '2023-03-16',
     category: { title: 'Marketing', href: '#' },
     imageUrl:
-      'https://images.unsplash.com/photo-1496128858413-b36217c2ce36?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=3603&q=80',
+      '/images/mj1.png',
     description:
       'Et et dolore officia quis nostrud esse aute cillum irure do esse. Eiusmod ad deserunt cupidatat est magna Lorem.',
   },
@@ -114,7 +110,7 @@ const recentPosts = [
     datetime: '2023-03-10',
     category: { title: 'Sales', href: '#' },
     imageUrl:
-      'https://images.unsplash.com/photo-1547586696-ea22b4d4235d?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=3270&q=80',
+      '/images/mj3.png',
     description: 'Optio cum necessitatibus dolor voluptatum provident commodi et.',
   },
 ]
