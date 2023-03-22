@@ -1,10 +1,9 @@
 <template>
-  <Popover class="relative z-50 isolate">
+  <Popover class="relative z-50 isolate" v-slot="{ open }">
     <div class="py-5 ">
       <div class="flex justify-end px-6 lg:px-8">
         <PopoverButton class="inline-flex items-center self-end px-6 py-3 text-lg font-semibold leading-6 text-white rounded-md bg-oncured-700 gap-x-1">
-          Menu <Bars3Icon class="w-6 h-6" aria-hidden="true" />
-          
+          Menu <ChevronDownIcon class="w-8" :class="{ 'rotate-180 transform': open }" />
         </PopoverButton>
       </div>
     </div>
@@ -61,10 +60,10 @@
 </template>
 
 <script setup>
+
 import { Popover, PopoverButton, PopoverPanel } from '@headlessui/vue'
 import { ChevronDownIcon } from '@heroicons/vue/20/solid'
 import {
-  Bars3Icon,
   BookOpenIcon,
   BriefcaseIcon,
   GlobeAltIcon,
