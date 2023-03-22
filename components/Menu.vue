@@ -65,28 +65,29 @@ import { Popover, PopoverButton, PopoverPanel } from '@headlessui/vue'
 import { ChevronDownIcon } from '@heroicons/vue/20/solid'
 import {
   BookOpenIcon,
+  UserGroupIcon,
   BriefcaseIcon,
   GlobeAltIcon,
   InformationCircleIcon,
+  AcademicCapIcon,
   NewspaperIcon,
   ShieldCheckIcon,
-  UserGroupIcon,
   UsersIcon,
   VideoCameraIcon,
 } from '@heroicons/vue/24/outline'
 
 const engagement = [
-  { name: 'About', href: '#', icon: InformationCircleIcon },
-  { name: 'Customers', href: '#', icon: UsersIcon },
-  { name: 'Press', href: '#', icon: NewspaperIcon },
+  { name: 'About', href: '/about', icon: InformationCircleIcon },
+  { name: 'Academic Staff', href: '/staff', icon: AcademicCapIcon },
+  { name: 'Our Team', href: '/team', icon: UserGroupIcon },
   { name: 'Careers', href: '#', icon: BriefcaseIcon },
   { name: 'Privacy', href: '#', icon: ShieldCheckIcon },
 ]
 const resources = [
-  { name: 'Community', href: '#', icon: UserGroupIcon },
-  { name: 'Partners', href: '#', icon: GlobeAltIcon },
-  { name: 'Guides', href: '#', icon: BookOpenIcon },
-  { name: 'Webinars', href: '#', icon: VideoCameraIcon },
+  { name: 'Community', href: '/', icon: UserGroupIcon },
+  { name: 'Partners', href: '/', icon: GlobeAltIcon },
+  { name: 'Guides', href: '/', icon: BookOpenIcon },
+  { name: 'Webinars', href: '/', icon: VideoCameraIcon },
 ]
 const recentPosts = [
   {
