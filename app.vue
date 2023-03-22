@@ -1,5 +1,9 @@
 <template>
   <div>
+    <div class="fixed top-0 z-50 w-full">
+      <MainMenu />
+    </div>
+    
     <!-- Hero -->
     <div class="relative bg-white" id="section-hero">
       <div class="mx-auto max-w-7xl lg:grid lg:grid-cols-12 lg:gap-x-8 lg:px-8">
@@ -268,6 +272,7 @@
     AcademicCapIcon,
     LightBulbIcon
   } from '@heroicons/vue/20/solid'
+  import MainMenu from '/components/MainMenu.vue'
   useHead({
     title: 'Öncü Academy',
     meta: [
