@@ -1,12 +1,14 @@
 <template>
   <div>
-    <div class="relative bg-white h-96" id="section-hero">
+    <div class="relative bg-white" id="section-hero">
       <div class="mx-auto max-w-7xl lg:grid lg:grid-cols-12 lg:gap-x-8 lg:px-8">
         <div class="px-6 pt-10 pb-24 sm:pb-32 lg:col-span-7 lg:px-0 lg:pt-8 lg:pb-56 xl:col-span-6">
           <div class="max-w-2xl mx-auto lg:mx-0">
-            <img class="h-72" src="/images/logo.png" alt="Your Company" />
-            <h1 class="mt-24 text-4xl font-bold tracking-tight text-gray-900 sm:mt-10 sm:text-6xl">Our Team</h1>
-            <h2 class="mt-6 text-lg leading-8 text-gray-600">We’re a dynamic group of individuals who are passionate about what we do and dedicated to delivering the best results for our clients.</h2>
+            <img class="h-80" src="/images/logo.png" alt="Your Company" />
+            <div class="hidden sm:mt-32 sm:flex lg:mt-16">
+            </div>
+            <h1 class="mt-24 text-4xl font-bold tracking-tight text-gray-900 sm:mt-10 sm:text-6xl">The Team</h1>
+            <h2 class="mt-6 text-lg leading-8 text-gray-600">This page is under construction</h2>
           </div>
         </div>
         <div class="relative lg:col-span-5 lg:-mr-8 xl:absolute xl:inset-0 xl:left-1/2 xl:mr-0">
@@ -14,11 +16,11 @@
         </div>
       </div>
     </div>
-    <div class="py-24 bg-white sm:py-32" id="section-program">
+    <div class="pb-24 bg-white sm:pb-32" id="section-program">
       <div class="px-6 mx-auto lg:px-8">
 
        
-        <div class="py-24 bg-white sm:py-32">
+        <div>
           <div class="px-6 mx-auto max-w-7xl lg:px-8">
             <ul role="list" class="grid max-w-2xl grid-cols-1 mx-auto mt-20 gap-x-6 gap-y-20 sm:grid-cols-2 lg:max-w-4xl lg:gap-x-8 xl:max-w-none">
               <li class="flex flex-col gap-6 xl:flex-row">

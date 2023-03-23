@@ -111,7 +111,6 @@
           <h2 class="mt-2 text-3xl font-bold tracking-tight text-gray-900 sm:text-4xl">Programs:</h2>
           <h2 class="mt-2 text-3xl font-bold tracking-tight text-gray-500 sm:text-4xl">MBA Certificates, Lectures, Modules, and Courses</h2>
           
-          
           <h4 class="mt-8 text-xl font-bold tracking-tight text-gray-900 sm:text-2xl">MBA Certificate Programs:</h4>
           <div class="grid max-w-xl grid-cols-1 gap-8 mt-10 text-base leading-7 text-gray-700 lg:max-w-none lg:grid-cols-2">
             <div>
