@@ -48,7 +48,7 @@ const solutions = [
   { name: 'Home', description: 'Academy Without Borders', href: '/', icon: HomeIcon },
   { name: 'Our Team', description: 'Meet out Team', href: '/our-team', icon: UserGroupIcon },
   { name: 'Our Learning Facilitators', description: "The Academic Staff", href: '/our-learning-facilitators', icon: AcademicCapIcon },
-  { name: 'Certificate Programs and Courses', description: "The Curriculum", href: '/certificate-programs-and-courses', icon: TvIcon },
+  { name: 'Certificate Programs and Courses', description: "MBA Certificates, Lectures, Modules, and Courses", href: '/certificate-programs-and-courses', icon: TvIcon },
   { name: 'Careers', description: 'Work with us', href: '#', icon: BriefcaseIcon },
 ]
 const callsToAction = [
