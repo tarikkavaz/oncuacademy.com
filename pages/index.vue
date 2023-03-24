@@ -30,6 +30,8 @@
             <div class="lg:max-w-lg">
   
               <h2 class="mt-2 text-3xl font-bold tracking-tight text-gray-900 sm:text-4xl">About</h2>
+
+              <h3 class="mt-2 text-xl font-bold tracking-tight text-gray-500 sm:text-2xl">Academy Without Borders</h3>
               <p class="mt-6 text-base leading-8 text-gray-700">Öncü Academy was founded by a group of scholars and professionals who are deeply passionate about education and committed to lifelong learning. Drawing on their extensive experience and expertise, they sought to create a new approach to teaching and learning that could truly transform lives.</p>
               <p class="mt-6 text-base leading-8 text-gray-700">We believe that everyone deserves access to knowledge and personal growth, which is why we've built a comprehensive learning framework and tailored executive education programs designed to break down barriers and cultivate a culture of lifelong learning.</p>
               <p class="mt-6 text-base leading-8 text-gray-700">We recognize that everyone learns differently, and we are committed to providing personalized and inclusive learning experiences that meet the unique needs of each individual.</p>
@@ -93,102 +95,6 @@
       </div>
     </div>
   
-    <!-- Program -->
-    <div class="py-24 bg-white sm:py-32" id="section-program">
-      <div class="px-6 mx-auto max-w-7xl lg:px-8">
-  
-        <div class="relative pt-16 overflow-hidden lg:pt-20">
-          <div class="px-6 mx-auto max-w-7xl lg:px-8">
-            <img class="mb-[-12%] rounded-xl shadow-2xl ring-1 ring-gray-900/10" src="/images/mj5.png" alt="" />
-            <div class="relative" aria-hidden="true">
-              <div class="absolute -inset-x-20 bottom-0 bg-gradient-to-t from-white pt-[7%]" />
-            </div>
-          </div>
-        </div>
-  
-        <div class="max-w-2xl mx-auto mt-20 lg:mx-0 lg:max-w-none">
-  
-          <h2 class="mt-2 text-3xl font-bold tracking-tight text-gray-900 sm:text-4xl">Programs:</h2>
-          <h2 class="mt-2 text-3xl font-bold tracking-tight text-gray-500 sm:text-4xl">MBA Certificates, Lectures, Modules, and Courses</h2>
-          
-          <h4 class="mt-8 text-xl font-bold tracking-tight text-gray-900 sm:text-2xl">MBA Certificate Programs:</h4>
-          <div class="grid max-w-xl grid-cols-1 gap-8 mt-10 text-base leading-7 text-gray-700 lg:max-w-none lg:grid-cols-2">
-            <div>
-              <p><strong>MBAX for Disruptive Times (72 hours):</strong> A certificate program that focuses on the challenges of managing in an ever-changing business landscape, and provides strategies and tools to navigate uncertainty and disruptions.</p>
-            </div>
-            <div>
-              <p><strong>Disruptive Innovation MBA (60 hours):</strong> Learn how to identify and capitalize on disruptive technologies and ideas to create new business models and stay ahead of the competition.</p>
-            </div>
-            <div>
-              <p><strong>Digital Transformation MBA (60 hours):</strong> Develop the skills to lead and navigate organizations through the complex process of digital transformation.</p>
-            </div>
-          </div>
-  
-          <h4 class="mt-8 text-xl font-bold tracking-tight text-gray-900 sm:text-2xl">Lectures:</h4>
-          <div class="grid max-w-xl grid-cols-1 gap-8 mt-10 text-base leading-7 text-gray-700 lg:max-w-none lg:grid-cols-2">
-            <div>
-              <p><strong>Horizon Tour for Leaders:</strong> In this 3-hour lecture, our expert provides business leaders and executives with a comprehensive understanding of global political economy and its impact on business and society. Through interactive sessions, participants will gain insights into emerging trends, risks, and opportunities that can help them make informed decisions and navigate an increasingly complex and uncertain world.</p>
-            </div>
-            <div>
-              <p><strong>Management in the Age of Uncertainty and Disruptions:</strong> In this 3-hour lecture, our expert will share practical strategies and tools to help managers navigate the uncertain and disruptive business environment. The presentation will be followed by a Q&amp;A session, giving you the chance to interact with the speaker and ask your questions.</p>
-            </div>
-          </div>
-          <div class="grid max-w-xl grid-cols-1 gap-8 mt-10 text-base leading-7 text-gray-700 lg:max-w-none lg:grid-cols-2">
-            <div>
-              <p><strong>Risks: “Leave it or take it”</strong> In this 3-hour lecture, our expert will delve into the complex world of risk management, offering insights on how to identify, assess, and mitigate risks in various contexts. The lecture will be followed by a Q&amp;A session, giving you the chance to interact with the speaker and ask your questions.</p>
-            </div>
-          </div>
-  
-          <h4 class="mt-8 text-xl font-bold tracking-tight text-gray-900 sm:text-2xl">Modules and Courses:</h4>
-          <div class="grid max-w-xl grid-cols-1 gap-8 mt-10 text-base leading-7 text-gray-700 lg:max-w-none lg:grid-cols-2">
-            <div>
-              <p><strong>Global Political Economy (6 hours):</strong> This module provides participants with an understanding of the global political economy and its impact on international order. Participants will learn about political economy theories, global governance, and international trade and finance policies and debates.</p>
-            </div>
-            <div>
-              <p><strong>Business throughout History (3 hours)</strong>: This course provides an overview of the evolution of business practices from ancient times to the modern era. Participants will explore the impact of social, cultural, and technological changes on business, and gain insights into the lessons that can be learned from historical business practices.</p>
-            </div>
-          </div>
-          <div class="grid max-w-xl grid-cols-1 gap-8 mt-10 text-base leading-7 text-gray-700 lg:max-w-none lg:grid-cols-2">
-            <div>
-              <p><strong>Heterodox Macroeconomics (6 hours)</strong>: This course provides an alternative perspective on macroeconomic theory, emphasizing the role of institutions, power relations, and social norms in shaping economic outcomes. Participants will explore heterodox approaches to macroeconomics, and gain insights into the limitations of mainstream economic theory.</p>
-            </div>
-            <div>
-              <p><strong>Managing Organizations (6 hours):</strong> This course provides an overview of organizational theory and management practices, with a focus on effective leadership and organizational design. Participants will explore the key elements of organizational structure, culture, and strategy, and develop skills in managing organizational change.</p>
-            </div>
-          </div>
-          <div class="grid max-w-xl grid-cols-1 gap-8 mt-10 text-base leading-7 text-gray-700 lg:max-w-none lg:grid-cols-2">
-            <div>
-              <p><strong>Financial Markets and Investments (6 hours):</strong> This module teaches participants about financial markets and investments. Participants will learn about financial instruments, investment strategies, and risk management techniques.</p>
-            </div>
-            <div>
-              <p><strong>Sustainable Business Practices and Environmental Policy (6 hours):</strong> This module provides participants with a deep understanding of sustainable business practices and environmental policies. Participants will learn about sustainable development, environmental management, and corporate social responsibility.</p>
-            </div>
-          </div>
-          <div class="grid max-w-xl grid-cols-1 gap-8 mt-10 text-base leading-7 text-gray-700 lg:max-w-none lg:grid-cols-2">
-            <div>
-              <p><strong>Digital Marketing and Social Media Strategies (6 hours)</strong>: This module teaches participants about the latest digital marketing and social media strategies. Participants will learn how to create effective digital campaigns, engage with customers on social media, and analyze digital marketing metrics.</p>
-            </div>
-            <div>
-              <p><strong>Data Analysis and Visualization for Business (6 hours):</strong> This module teaches participants how to use data analysis and visualization tools to make informed business decisions. Participants will learn about statistical analysis, data visualization techniques, and data-driven decision-making.</p>
-            </div>
-          </div>
-          <div class="grid max-w-xl grid-cols-1 gap-8 mt-10 text-base leading-7 text-gray-700 lg:max-w-none lg:grid-cols-2">
-            <div>
-              <p><strong>Entrepreneurship and Innovation (6 hours):</strong> This module explores the process of entrepreneurship and innovation, including opportunity identification, business planning, and financing.</p>
-            </div>
-            <div>
-              <p><strong>Social Innovation and Entrepreneurship (6 hours):</strong> This module teaches participants about social innovation and entrepreneurship. Participants will learn how to create social impact through innovative business models and how to develop and launch a social venture.</p>
-            </div>
-          </div>
-          <div class="grid max-w-xl grid-cols-1 gap-8 mt-10 text-base leading-7 text-gray-700 lg:max-w-none lg:grid-cols-2">
-            <div>
-              <p><strong>Ethics for Business (6 hours)</strong>: This module provides participants with an understanding of legal and ethical issues in business. Participants will learn about corporate governance, social responsibility, and ethical decision-making.</p>
-            </div>
-          </div>
-  
-        </div>
-      </div>
-    </div>
   
     <!-- Call to Action -->
     <div class="relative bg-oncured-900" id="cta">
