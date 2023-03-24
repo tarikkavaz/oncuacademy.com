@@ -23,7 +23,7 @@
                 </div>
               </div>
             </div>
-            <div>
+            <!-- <div>
               <h3 class="text-sm font-medium leading-6 text-gray-500">Resources</h3>
               <div class="flow-root mt-6">
                 <div class="-my-2">
@@ -33,7 +33,7 @@
                   </a>
                 </div>
               </div>
-            </div>
+            </div> -->
           </div>
           <div class="grid grid-cols-1 gap-10 sm:gap-8 lg:grid-cols-2">
             <h3 class="sr-only">Recent posts</h3>
@@ -49,7 +49,7 @@
                     {{ post.title }}
                   </NuxtLink>
                 </h4>
-                <p class="mt-2 text-sm leading-6 text-gray-600">{{ post.description }}</p>
+                <!-- <p class="mt-2 text-sm leading-6 text-gray-600">{{ post.description }}</p> -->
               </div>
             </article>
           </div>
@@ -78,10 +78,10 @@ import {
 
 const engagement = [
   { name: 'About', href: '/about', icon: InformationCircleIcon },
-  { name: 'Academic Staff', href: '/staff', icon: AcademicCapIcon },
-  { name: 'Our Team', href: '/team', icon: UserGroupIcon },
+  { name: 'Our Team', href: '/our-team', icon: UserGroupIcon },
+  { name: 'Our Learning Facilitators', href: '/our-learning-facilitators', icon: AcademicCapIcon },
   { name: 'Careers', href: '#', icon: BriefcaseIcon },
-  { name: 'Privacy', href: '#', icon: ShieldCheckIcon },
+  
 ]
 const resources = [
   { name: 'Community', href: '/', icon: UserGroupIcon },
@@ -91,7 +91,7 @@ const resources = [
 ]
 const recentPosts = [
   {
-    id: 1,
+    id: 2,
     title: 'Boost your conversion rate',
     href: '#',
     date: 'Mar 16, 2023',
@@ -103,14 +103,14 @@ const recentPosts = [
       'Et et dolore officia quis nostrud esse aute cillum irure do esse. Eiusmod ad deserunt cupidatat est magna Lorem.',
   },
   {
-    id: 2,
-    title: 'How to use search engine optimization to drive sales',
+    id: 1,
+    title: 'Academy Without Borders',
     href: '#',
     date: 'Mar 10, 2023',
     datetime: '2023-03-10',
     category: { title: 'Sales', href: '#' },
     imageUrl:
-      '/images/mj3.png',
+      '/images/mj8.png',
     description: 'Optio cum necessitatibus dolor voluptatum provident commodi et.',
   },
 ]
