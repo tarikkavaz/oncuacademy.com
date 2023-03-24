@@ -45,7 +45,7 @@ import {
 
 const solutions = [
   { name: 'Home', description: 'Academy Without Borders', href: '/', icon: HomeIcon },
-  { name: 'Our Team', description: 'Get to know out Team', href: '/our-team', icon: UserGroupIcon },
+  { name: 'Our Team', description: 'Meet out Team', href: '/our-team', icon: UserGroupIcon },
   { name: 'Our Learning Facilitators', description: "The Academic Staff", href: '/our-learning-facilitators', icon: AcademicCapIcon },
   { name: 'Careers', description: 'Work with us', href: '#', icon: BriefcaseIcon },
 ]
