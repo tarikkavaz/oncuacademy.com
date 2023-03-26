@@ -10,9 +10,10 @@
   import Menu from '/components/Menu.vue'
   useHead({
   title: '',
+    title: 'Öncü Academy',
     meta: [
-      { property: 'title', content: 'Öncü Academy' },
-      { property: 'description', content: 'We strive to foster a sense of curiosity and quest in our learners, encouraging them to push beyond the boundaries of what they know and discover new frontiers of knowledge' },
+      { name: 'title', content: 'Öncü Academy' },
+      { name: 'description', content: 'We strive to foster a sense of curiosity and quest in our learners, encouraging them to push beyond the boundaries of what they know and discover new frontiers of knowledge' },
       { property: 'og:type', content: 'website' },
       { property: 'og:url', content: 'https://oncuacademy.com/' },
       { property: 'og:title', content: 'Öncü Academy' },
