@@ -40,6 +40,7 @@ import {
   HomeIcon,
   UserGroupIcon,
   AcademicCapIcon,
+  ChatBubbleLeftEllipsisIcon,
   BriefcaseIcon,
   TvIcon,
 } from '@heroicons/vue/24/outline'
@@ -47,9 +48,10 @@ import {
 const solutions = [
   { name: 'Home', description: 'Academy Without Borders', href: '/', icon: HomeIcon },
   { name: 'Our Team', description: 'Meet Our Team', href: '/our-team', icon: UserGroupIcon },
-  { name: 'Our Learning Facilitators', description: "The Academic Staff", href: '/our-learning-facilitators', icon: AcademicCapIcon },
-  { name: 'Certificate Programs and Courses', description: "MBA Certificates, Lectures, Modules, and Courses", href: '/certificate-programs-and-courses', icon: TvIcon },
-  { name: 'Careers', description: 'Work with us', href: '#', icon: BriefcaseIcon },
+  // { name: 'Our Learning Facilitators', description: "The Academic Staff", href: '/our-learning-facilitators', icon: AcademicCapIcon },
+  { name: 'Certificate Programs and Courses', description: "MBA and Leadership certificates, Lectures, Modules, and Courses", href: '/certificate-programs-and-courses', icon: TvIcon },
+  { name: 'Chair’s Message', description: 'A message from the founder', href: '/chairs-message', icon: ChatBubbleLeftEllipsisIcon },
+  { name: 'Careers', description: 'Work with us', href: '/careers', icon: BriefcaseIcon },
 ]
 const callsToAction = [
   { name: 'Write us', href: 'mailto:info@oncuacademy.com', icon: PencilIcon },
