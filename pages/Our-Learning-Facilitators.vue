@@ -8,7 +8,7 @@
             <div class="hidden sm:mt-32 sm:flex lg:mt-16">
             </div>
             <h1 class="mt-24 text-4xl font-bold tracking-tight text-gray-900 sm:mt-10 sm:text-6xl">Our Learning Facilitators</h1>
-            <h2 class="mt-6 text-lg leading-8 text-gray-500">Meet our Team</h2>
+            <h2 class="mt-6 text-lg leading-8 text-gray-500">Meet our Facilitators</h2>
           </div>
         </div>
         <div class="relative lg:col-span-5 lg:-mr-8 xl:absolute xl:inset-0 xl:left-1/2 xl:mr-0">

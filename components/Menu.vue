@@ -51,8 +51,7 @@ import {
 const menuitems = [
   { name: 'Home', description: 'Academy Without Borders', href: '/', icon: HomeIcon },
   { name: 'Chair’s Message', description: 'A message from the founder', href: '/chairs-message', icon: ChatBubbleLeftEllipsisIcon },
-  // { name: 'Our Team', description: 'Meet Our Team', href: '/our-team', icon: UserGroupIcon },
-  { name: 'Our Learning Facilitators', description: "Meet the Team", href: '/our-learning-facilitators', icon: AcademicCapIcon },
+  { name: 'Our Learning Facilitators', description: "Meet the Facilitators", href: '/our-learning-facilitators', icon: AcademicCapIcon },
   { name: 'Certificate Programs and Courses', description: "MBA and Leadership certificates, Lectures, Modules, and Courses", href: '/certificate-programs-and-courses', icon: TvIcon },
   { name: 'Careers', description: 'Work with us', href: '/careers', icon: BriefcaseIcon },
 ]
