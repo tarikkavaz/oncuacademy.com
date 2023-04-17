@@ -1,17 +1,18 @@
-/** @type {import('tailwindcss').Config} */
 module.exports = {
   content: [
-    "./components/**/*.{js,vue,ts}",
-    "./layouts/**/*.vue",
-    "./pages/**/*.vue",
-    "./plugins/**/*.{js,ts}",
-    "./nuxt.config.{js,ts}",
-    "./app.vue",
+    './components/**/*.{js,vue,ts}',
+    './layouts/**/*.vue',
+    './pages/**/*.vue',
+    './plugins/**/*.{js,ts}',
+    './nuxt.config.{js,ts}'
   ],
   theme: {
     extend: {
       colors: {
-        'oncured': {
+        themedark: '#333',
+        themelight: '#F2EFE7',
+        themeaccent: '#1C4BE6',
+        oncured: {
           50: '#fff1f3',
           100: '#ffe0e4',
           200: '#ffc7cd',
@@ -21,10 +22,17 @@ module.exports = {
           600: '#e71f36',
           700: '#c21327',
           800: '#a01424',
-          900: '#851724',
-        },
+          900: '#851724'
+        }
+      },
+      fontFamily: {
+        default: ['Montserrat'],
+        handwriting: ['DM Serif Display']
+      },
+      spacing: {
+        footer: '5rem'
       }
-    },
+    }
   },
-  plugins: [],
+  plugins: []
 }
