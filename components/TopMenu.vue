@@ -117,15 +117,15 @@ export default {
         faicon: ['fas', 'comment']
       },
       {
-        name: 'ourlearningfacilitators',
-        link: 'ourlearningfacilitators',
-        desc: 'desc_ourlearningfacilitators',
+        name: 'facilitators',
+        link: 'facilitators',
+        desc: 'desc_facilitators',
         faicon: ['fas', 'graduation-cap']
       },
       {
-        name: 'certificateprogramsandcourses',
-        link: 'certificateprogramsandcourses',
-        desc: 'desc_certificateprogramsandcourses',
+        name: 'programs',
+        link: 'programs',
+        desc: 'desc_programs',
         faicon: ['fas', 'desktop']
       },
       {

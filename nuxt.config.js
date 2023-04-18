@@ -83,8 +83,8 @@ export default {
           // Pages
           whoweare: 'Who We Are',
           chairsmessage: 'In the Wake of New Beginnings',
-          ourlearningfacilitators: 'Our Learning Facilitators',
-          certificateprogramsandcourses: 'Certificate Programs, Modules, and Courses',
+          facilitators: 'Our Learning Facilitators',
+          programs: 'Certificate Programs, Modules, and Courses',
           careers: 'Careers',
           home: 'Home',
           news: 'News',
@@ -96,8 +96,8 @@ export default {
           // Description
           desc_whoweare: 'Academy Without Borders',
           desc_chairsmessage: 'A message from the founder',
-          desc_ourlearningfacilitators: 'Meet the Facilitators',
-          desc_certificateprogramsandcourses: ' ',
+          desc_facilitators: 'Meet the Facilitators',
+          desc_programs: ' ',
           desc_careers: 'Work with us',
           desc_contact: 'Get in touch',
           desc_home: 'Welcome Page',
@@ -122,8 +122,8 @@ export default {
           // Pages
           whoweare: 'Biz Kimiz',
           chairsmessage: 'Yeni Başlangıçların Kapısı',
-          ourlearningfacilitators: 'Öncü Academy Öğrenme kılavuzları',
-          certificateprogramsandcourses: 'Sertifikalar, Modüller ve Dersler',
+          facilitators: 'Öncü Academy Öğrenme kılavuzları',
+          programs: 'Sertifikalar, Modüller ve Dersler',
           careers: 'Kariyer',
           home: 'Anasayfa',
           news: 'Haber',
@@ -135,8 +135,8 @@ export default {
           // Description
           desc_whoweare: 'Sınırları Olmayan Akademi',
           desc_chairsmessage: 'Kurucunun mesajı',
-          desc_ourlearningfacilitators: 'Ekibimizle tanışın',
-          desc_certificateprogramsandcourses: ' ',
+          desc_facilitators: 'Ekibimizle tanışın',
+          desc_programs: ' ',
           desc_careers: 'Bizlerle çalışmak ister misiniz?',
           desc_contact: 'İletişme geçin',
           desc_home: 'Hoşgeldiniz Sayfası',
@@ -156,11 +156,11 @@ export default {
         en: '/in-the-wake-of-new-beginnings',
         tr: '/yeni-baslangiclarin-kapisi'
       },
-      ourlearningfacilitators: {
+      facilitators: {
         en: '/our-learning-facilitators',
         tr: '/oncu-academy-ekibi'
       },
-      certificateprogramsandcourses: {
+      programs: {
         en: '/certificate-programs-and-courses',
         tr: '/sertifikalar-moduller-ve-dersler'
       },
