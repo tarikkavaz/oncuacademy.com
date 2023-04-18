@@ -6,19 +6,19 @@
         {{ $t('menu') }}
       </span>
     </button>
-    <div class="mx-auto w-[32rem]" :class="{ 'hidden': !showContainer }">
+    <div class="mx-auto lg:w-[32rem]" :class="{ 'hidden': !showContainer }">
       <div class="pb-4 md:block rounded-2xl">
         <div class="p-2 pb-0">
           <OtherLang />
         </div>
         <div v-for="item in items" :key="item.name" class="mx-2 shadow-2xl sidemenu">
           <template v-if="item.subItems">
-            <a class="flex items-center justify-between px-8 py-4 text-gray-800 cursor-pointer bg-slate-100 hover:bg-slate-300" @click.prevent="toggle(item)">
+            <a class="flex items-center justify-between px-8 py-4 text-gray-800 cursor-pointer bg-slate-100 hover:text-white hover:bg-slate-400" @click.prevent="toggle(item)">
               <div class="flex">
-                <div class="self-center mr-3 w-14">
+                <div class="self-center w-6 mr-3 lg:w-10">
                   <font-awesome-icon :icon="item.faicon" class="h-6 opacity-30" />
                 </div>
-                <div class="self-center w-26">
+                <div class="self-center w-fit lg:w-26">
                   <div>{{ $t(item.name) }}</div>
                   <div class="text-xs opacity-60 idesc">{{ $t(item.desc) }}</div>
                 </div>
@@ -51,12 +51,12 @@
           </template>
           <template v-else>
             <template v-if="item.link">
-              <nuxt-link :to="localePath(item.link)" class="block px-8 py-4 text-gray-800 bg-slate-100 hover:bg-slate-300" @click.native="closeOpenSubmenu">
+              <nuxt-link :to="localePath(item.link)" class="block px-8 py-4 text-gray-800 bg-slate-100 hover:text-white hover:bg-slate-400" @click.native="closeOpenSubmenu">
                 <div class="flex">
-                  <div class="self-center mr-3 w-14">
+                  <div class="self-center w-6 mr-3 lg:w-10">
                     <font-awesome-icon :icon="item.faicon" class="h-6 opacity-30 fai" />
                   </div>
-                  <div class="self-center w-26">
+                  <div class="self-center w-fit lg:w-26">
                     <div>
                       {{ $t(item.name) }}
                     </div>
@@ -76,12 +76,12 @@
           </template>
         </div>
         <div class="mx-2 shadow-2xl sidemenu">
-          <a href="#cta" class="block px-8 py-4 text-gray-800 bg-slate-100 hover:bg-slate-300" @click.native="closeOpenSubmenu">
+          <a href="#cta" class="block px-8 py-4 text-gray-800 bg-slate-100 hover:text-white hover:bg-slate-400" @click.native="closeOpenSubmenu">
             <div class="flex">
-              <div class="self-center mr-3 w-14">
+              <div class="self-center w-6 mr-3 lg:w-10">
                 <font-awesome-icon :icon="['fas', 'phone']" class="h-6 opacity-30 fai" />
               </div>
-              <div class="self-center w-26">
+              <div class="self-center w-fit lg:w-26">
                 <div>
                   {{ $t('contact') }}
                 </div>
