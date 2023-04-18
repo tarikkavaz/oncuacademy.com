@@ -7,7 +7,7 @@
           {{ $t('menu') }}
         </span>
       </button>
-      <div class="absolute inset-0 h-screen" @click="showContainer = false">
+      <div class="absolute inset-0 h-screen" :class="{ 'hidden': !showContainer }" @click="showContainer = false">
         <div class="mx-auto pt-20 lg:w-[32rem]" :class="{ 'hidden': !showContainer }">
           <div class="pb-4 md:block rounded-2xl">
             <div class="p-2 pb-0">
