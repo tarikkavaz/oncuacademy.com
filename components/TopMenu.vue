@@ -121,12 +121,12 @@ export default {
         desc: 'desc_chairsmessage',
         faicon: ['fas', 'comment']
       },
-      {
-        name: 'facilitators',
-        link: 'facilitators',
-        desc: 'desc_facilitators',
-        faicon: ['fas', 'graduation-cap']
-      },
+      // {
+      //   name: 'facilitators',
+      //   link: 'facilitators',
+      //   desc: 'desc_facilitators',
+      //   faicon: ['fas', 'graduation-cap']
+      // },
       {
         name: 'programs',
         link: 'programs',

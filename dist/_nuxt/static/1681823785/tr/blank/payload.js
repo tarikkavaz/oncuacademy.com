@@ -1,1 +1,1 @@
-__NUXT_JSONP__("/tr/blank", {data:[{}],fetch:{},mutations:[]});
+__NUXT_JSONP__('/tr/blank', { data: [{}], fetch: {}, mutations: [] })

@@ -156,10 +156,10 @@ export default {
         en: '/in-the-wake-of-new-beginnings',
         tr: '/yeni-baslangiclarin-kapisi'
       },
-      facilitators: {
-        en: '/our-learning-facilitators',
-        tr: '/oncu-academy-ekibi'
-      },
+      // facilitators: {
+      //   en: '/our-learning-facilitators',
+      //   tr: '/oncu-academy-ekibi'
+      // },
       programs: {
         en: '/certificate-programs-and-courses',
         tr: '/sertifikalar-moduller-ve-dersler'
