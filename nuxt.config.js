@@ -83,7 +83,7 @@ export default {
           // Pages
           whoweare: 'Who We Are',
           chairsmessage: 'In the Wake of New Beginnings',
-          facilitators: 'Our Learning Facilitators',
+          // facilitators: 'Our Learning Facilitators',
           programs: 'Certificate Programs, Modules, and Courses',
           careers: 'Careers',
           home: 'Home',
@@ -122,7 +122,7 @@ export default {
           // Pages
           whoweare: 'Biz Kimiz',
           chairsmessage: 'Yeni Başlangıçların Kapısı',
-          facilitators: 'Öncü Academy Öğrenme kılavuzları',
+          // facilitators: 'Öncü Academy Öğrenme kılavuzları',
           programs: 'Sertifikalar, Modüller ve Dersler',
           careers: 'Kariyer',
           home: 'Anasayfa',
