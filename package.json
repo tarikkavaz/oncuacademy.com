@@ -6,11 +6,11 @@
     "dev": "nuxt",
     "build": "nuxt build",
     "start": "nuxt start",
-    "generate": "nuxt generate",
+    "deldist:local": "rm -rf dist/",
+    "generate": "yarn deldist:local && nuxt generate",
     "lint:js": "eslint --ext \".js,.vue\" --ignore-path .gitignore .",
     "lint": "yarn lint:js",
     "lintfix": "yarn lint:js --fix",
-    "deldist:local": "rm -rf dist/",
     "deploy": "git subtree push --prefix dist origin gh-pages"
   },
   "dependencies": {
