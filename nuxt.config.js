@@ -92,6 +92,7 @@ export default {
           about: 'About',
           another: 'Another One',
           services: 'Services',
+          form: 'Appclication Form',
 
           // Description
           desc_whoweare: 'Academy Without Borders',
@@ -131,6 +132,7 @@ export default {
           about: 'Hakkında',
           another: 'Başka Bir',
           services: 'Servisler',
+          form: 'Başvuru Formu',
 
           // Description
           desc_whoweare: 'Sınırları Olmayan Akademi',
@@ -167,6 +169,10 @@ export default {
       careers: {
         en: '/careers',
         tr: '/kariyer'
+      },
+      form: {
+        en: '/form',
+        tr: '/form'
       },
       contact: {
         en: '#cta',
