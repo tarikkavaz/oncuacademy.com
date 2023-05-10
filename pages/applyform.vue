@@ -15,8 +15,8 @@
                   data-tf-auto-focus
                   data-tf-medium="snippet"
                   data-tf-full-screen
+                  class="typeform"
                 />
-                <script src="//embed.typeform.com/next/embed.js" />
               </div>
             </div>
           </div>
@@ -41,7 +41,7 @@
                   data-tf-auto-focus
                   data-tf-medium="snippet"
                   data-tf-full-screen
-                /><script src="//embed.typeform.com/next/embed.js" />
+                />
               </div>
             </div>
           </div>
@@ -51,6 +51,7 @@
         </div>
       </div>
     </div>
+    <script src="//embed.typeform.com/next/embed.js" />
   </div>
 </template>
 
@@ -102,5 +103,9 @@ export default {
 <style scoped>
 iframe {
   border-radius: 0 !important;
+}
+.typeform {
+  position: relative !important;
+  z-index: 900 !important;
 }
 </style>

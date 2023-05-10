@@ -170,7 +170,7 @@ export default {
         en: '/careers',
         tr: '/kariyer'
       },
-      form: {
+      applyform: {
         en: '/form',
         tr: '/form'
       },
