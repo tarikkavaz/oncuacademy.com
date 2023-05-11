@@ -92,7 +92,7 @@ export default {
           about: 'About',
           another: 'Another One',
           services: 'Services',
-          form: 'Appclication Form',
+          applicationform: 'Appclication Form',
 
           // Description
           desc_whoweare: 'Academy Without Borders',
@@ -103,6 +103,7 @@ export default {
           desc_contact: 'Get in touch',
           desc_home: 'Welcome Page',
           desc_about: 'About Page',
+          desc_applicationform: ' ',
           desc_test: 'Test Page',
           desc_sub: 'Sub Menu'
         },
@@ -132,7 +133,7 @@ export default {
           about: 'Hakkında',
           another: 'Başka Bir',
           services: 'Servisler',
-          form: 'Başvuru Formu',
+          applicationform: 'Başvuru Formu',
 
           // Description
           desc_whoweare: 'Sınırları Olmayan Akademi',
@@ -143,6 +144,7 @@ export default {
           desc_contact: 'İletişme geçin',
           desc_home: 'Hoşgeldiniz Sayfası',
           desc_about: 'Hakkımızda Sayfası',
+          desc_applicationform: ' ',
           desc_test: 'Test Metin',
           desc_sub: 'Alt Menu'
         }
@@ -170,9 +172,9 @@ export default {
         en: '/careers',
         tr: '/kariyer'
       },
-      applyform: {
-        en: '/form',
-        tr: '/form'
+      applicationform: {
+        en: '/apply',
+        tr: '/basvur'
       },
       contact: {
         en: '#cta',

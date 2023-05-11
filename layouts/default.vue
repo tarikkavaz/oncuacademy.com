@@ -7,7 +7,7 @@
       <MainHeader :headertitle="headerTitle" :headerparagraph="headerParagraph" :headerimage="headerImage" />
       <div class="flex flex-1">
         <div class="container flex-1 mx-auto mb-16 max-w-7xl lg:grid lg:grid-cols-4">
-          <div id="content" class="p-8 lg:min-h-screen lg:col-span-4 mb-footer">
+          <div id="content" class="p-8 lg:col-span-4 mb-footer">
             <Nuxt />
           </div>
         </div>

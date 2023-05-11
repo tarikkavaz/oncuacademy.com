@@ -134,6 +134,12 @@ export default {
         faicon: ['fas', 'desktop']
       },
       {
+        name: 'applicationform',
+        link: 'applicationform',
+        desc: 'desc_applicationform',
+        faicon: ['fas', 'list']
+      },
+      {
         name: 'careers',
         link: 'careers',
         desc: 'desc_careers',
