@@ -9,18 +9,9 @@
                 <h3>
                   Academy Without Borders
                 </h3>
-                <p>
-                  Öncü Academy was founded by a group of scholars and professionals who are deeply passionate about education and committed to lifelong learning. Drawing on their extensive experience and expertise, they sought to create a new approach to teaching and learning that could truly transform lives.
-                </p>
-                <p>
-                  We believe that everyone deserves access to knowledge and personal growth, which is why we've built a comprehensive learning framework and tailored executive education programs designed to break down barriers and cultivate a culture of lifelong learning.
-                </p>
-                <p>
-                  We recognize that everyone learns differently, and we are committed to providing personalized and inclusive learning experiences that meet the unique needs of each individual.
-                </p>
-                <p>
-                  Through our innovative programs, modules, and courses, we seek to pioneer new frontiers in learning, equipping individuals, professionals, organizations, and communities with the knowledge and skills they need to achieve their goals. By fostering a culture of lifelong learning, we aim to create positive change and make a lasting impact on the world.
-                </p>
+                <p>Öncü Academy was founded by Sabri Öncü and Ahmet Öncü with the support and contributions of a group of scholars and professionals who are deeply passionate about education and committed to lifelong learning. Drawing on their extensive experience and expertise, they sought to create a new approach to teaching and learning that could truly transform lives.</p>
+                <p>We believe that everyone deserves access to knowledge and personal growth. We recognize that everyone learns differently, and we are committed to providing learning experiences that meet the unique needs of each individual.</p>
+                <p>Through our innovative programs, modules, and courses, we seek to pioneer new frontiers in learning, equipping individuals, professionals, organizations, and communities with the knowledge and skills they need to achieve their goals. By fostering a culture of lifelong learning, we aim to create positive change and make a lasting impact on the world.</p>
               </div>
             </div>
           </div>
@@ -39,11 +30,11 @@
                   <li class="flex gap-x-3">
                     <span><font-awesome-icon :icon="['fas', 'trophy']" class="h-4 mr-2 text-oncured-500" /><strong>Values.</strong>
                       <ul>
-                        <li><strong>Respect for human dignity: </strong>We treat all individuals with dignity and respect, regardless of their background, race, religion, gender, or sexual orientation.</li>
-                        <li><strong>Responsibility:</strong> We are responsible for our actions and their consequences. We act ethically and take responsibility for our decisions and their impact on others.</li>
-                        <li><strong>Honesty:</strong> We are honest and truthful in our dealings with others, whether in professional or personal relationships.</li>
-                        <li><strong>Fairness:</strong> We strive for fairness and justice in our interactions with others, and work to eliminate discrimination and bias in all forms.</li>
-                        <li><strong>Compassion:</strong> We show compassion and empathy towards others, and work to help those in need.</li>
+                        <li><strong>Respect for human dignity :</strong>We treat all individuals with dignity and respect, regardless of their background, race, religion, gender, or sexual orientation.</li>
+                        <li><strong>Responsibility :</strong>We are responsible for our actions and their consequences. We act ethically and take responsibility for our decisions and their impact on others.</li>
+                        <li><strong>Honesty :</strong>We are honest and truthful in our dealings with others, whether in professional or personal relationships.</li>
+                        <li><strong>Fairness :</strong>We strive for fairness and justice in our interactions with others, and work to eliminate discrimination and bias in all forms.</li>
+                        <li><strong>Compassion :</strong>We show compassion and empathy towards others, and work to help those in need.</li>
                       </ul>
                     </span>
                   </li>
@@ -84,15 +75,9 @@
                 <h3>
                   Sınırları Olmayan Akademi
                 </h3>
-                <p>
-                  Öncü Akademi, öğrenmeye adanmış bir grup tutkulu akademisyen ve profesyonel tarafından kuruldu. Bu insanlar, kapsamlı deneyim ve uzmanlıklarından güç alarak, öğretim ve öğrenme konusunda yeni bir yaklaşım yaratmak için bir araya geldiler.
-                </p>
-                <p>
-                  Akademinin amacı, insanları gerçekten dönüştürebilecek bir eğitim sunmak ve öğrenenlerin yeni ufuklar keşfetmelerine yardımcı olmaktır. Akademi, yaşam boyu öğrenmenin önemini vurgulayan ve öğrenenlerin kendilerini sürekli olarak geliştirmelerini teşvik eden bir öğrenme felsefesi ve modeli benimsemektedir.
-                </p>
-                <p>
-                  Her bireyin bilgiye ve kişisel gelişime erişim hakkına sahip olduğu inancıyla, yaşam boyu öğrenme kültürünün geliştirilmesine ve bilgiye ulaşmanın önündeki engellerin kaldırılmasına odaklanmaktadır. Bu açıdan,  öncelikli olarak yönetici gelişim programları tasarlamaktadır.
-                </p>
+                <p>tutkulu akademisyen ve profesyonelin katkı ve destekleriyle kuruldu. Bu insanlar, kapsamlı deneyim ve uzmanlıklarından güç alarak, öğretim ve öğrenme konusunda yeni bir yaklaşım yaratmak için bir araya geldiler.</p>
+                <p>Akademinin amacı, insanları gerçekten dönüştürebilecek bir eğitim sunmak ve öğrenenlerin yeni ufuklar keşfetmelerine yardımcı olmaktır. Akademi, yaşam boyu öğrenmenin önemini vurgulayan ve öğrenenlerin kendilerini sürekli olarak geliştirmelerini teşvik eden bir öğrenme felsefesi ve modeli benimsemektedir.</p>
+                <p>Her bireyin bilgiye ve kişisel gelişime erişim hakkına sahip olduğu inancıyla, yaşam boyu öğrenme kültürünün geliştirilmesine ve bilgiye ulaşmanın önündeki engellerin kaldırılmasına odaklanmaktadır.</p>
               </div>
             </div>
           </div>
@@ -111,11 +96,11 @@
                   <li class="flex gap-x-3">
                     <span><font-awesome-icon :icon="['fas', 'trophy']" class="h-4 mr-2 text-oncured-500" /><strong>Değerler.</strong>
                       <ul>
-                        <li><strong>İnsan Onuruna Saygı: </strong>Geçmişi, ırkı, dini, cinsiyeti veya cinsel yönelimi ne olursa olsun, tüm bireylere insanlık onuruyla ve saygıyla yaklaşırız.</li>
-                        <li><strong>Sorumluluk:</strong> Eylemlerimizin ve sonuçlarının sorumluluğunu alırız. Ahlaki davranır ve kararlarımızın başkaları üzerindeki etkisine karşı sorumluluk üstleniriz.</li>
-                        <li><strong>Dürüstlük:</strong> İş ve kişisel ilişkilerimizde, dürüst ve doğru davranırız.</li>
-                        <li><strong>Adil Olmak:</strong> Bütün ilişkilerimizde adalet ve eşitlik arayışına uygun hareket ederiz. Her türlü ayrımcılığı ve önyargıyı ortadan kaldırmak için çalışırız.</li>
-                        <li><strong>Merhamet:</strong> İhtiyacı olanlara yardım etmek için merhamet ve duygudaşlık gösteririz.</li>
+                        <li><strong>İnsan Onuruna Saygı :</strong>Geçmişi, ırkı, dini, cinsiyeti veya cinsel yönelimi ne olursa olsun, tüm bireylere insanlık onuruyla ve saygıyla yaklaşırız.</li>
+                        <li><strong>Sorumluluk :</strong>Eylemlerimizin ve sonuçlarının sorumluluğunu alırız. Ahlaki davranır ve kararlarımızın başkaları üzerindeki etkisine karşı sorumluluk üstleniriz.</li>
+                        <li><strong>Dürüstlük :</strong>İş ve kişisel ilişkilerimizde, dürüst ve doğru davranırız.</li>
+                        <li><strong>Adil Olmak :</strong>Bütün ilişkilerimizde adalet ve eşitlik arayışına uygun hareket ederiz. Her türlü ayrımcılığı ve önyargıyı ortadan kaldırmak için çalışırız.</li>
+                        <li><strong>Merhamet :</strong>İhtiyacı olanlara yardım etmek için merhamet ve duygudaşlık gösteririz.</li>
                       </ul>
                     </span>
                   </li>

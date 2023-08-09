@@ -115,24 +115,24 @@ export default {
         desc: 'desc_whoweare',
         faicon: ['fas', 'home']
       },
-      {
-        name: 'chairsmessage',
-        link: 'chairsmessage',
-        desc: 'desc_chairsmessage',
-        faicon: ['fas', 'comment']
-      },
+      // {
+      //   name: 'chairsmessage',
+      //   link: 'chairsmessage',
+      //   desc: 'desc_chairsmessage',
+      //   faicon: ['fas', 'comment']
+      // },
       // {
       //   name: 'facilitators',
       //   link: 'facilitators',
       //   desc: 'desc_facilitators',
       //   faicon: ['fas', 'graduation-cap']
       // },
-      {
-        name: 'programs',
-        link: 'programs',
-        desc: 'desc_programs',
-        faicon: ['fas', 'desktop']
-      },
+      // {
+      //   name: 'programs',
+      //   link: 'programs',
+      //   desc: 'desc_programs',
+      //   faicon: ['fas', 'desktop']
+      // },
       {
         name: 'applicationform',
         link: 'applicationform',
