@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/en/globalpoliticaleconomywebinars", {data:[{}],fetch:{},mutations:[]});
