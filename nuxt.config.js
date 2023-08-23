@@ -93,6 +93,13 @@ export default {
           another: 'Another One',
           services: 'Services',
           applicationform: 'Appclication Form',
+          opencourses: 'Open Courses',
+          globalpoliticaleconomywebinars: 'Lectures on Global Political Economy Webinars',
+          perspective: 'Perspective',
+          bulletin: 'Bulletin',
+          lecturesonecovisionaryleadership: 'Lectures on EcoVisionary Leadership',
+          socialsolidarityprojects: 'Social Solidarity Projects',
+          talesbyfazilhoca: 'Tales by Fazıl Hoca',
 
           // Description
           desc_whoweare: 'Academy Without Borders',
@@ -134,6 +141,13 @@ export default {
           another: 'Başka Bir',
           services: 'Servisler',
           applicationform: 'Başvuru Formu',
+          opencourses: 'Açık Dersler',
+          globalpoliticaleconomywebinars: 'Küresel Siyasal İktisat Konuşmaları',
+          perspective: 'Bakış',
+          bulletin: 'Bülten',
+          lecturesonecovisionaryleadership: 'EkoVizyoner Liderlik Konuşmaları',
+          socialsolidarityprojects: 'Toplumsal Dayanışma Projeleri',
+          talesbyfazilhoca: 'Fazıl Hoca’dan Masallar',
 
           // Description
           desc_whoweare: 'Sınırları Olmayan Akademi',

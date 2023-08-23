@@ -115,24 +115,48 @@ export default {
         desc: 'desc_whoweare',
         faicon: ['fas', 'home']
       },
-      // {
-      //   name: 'chairsmessage',
-      //   link: 'chairsmessage',
-      //   desc: 'desc_chairsmessage',
-      //   faicon: ['fas', 'comment']
-      // },
-      // {
-      //   name: 'facilitators',
-      //   link: 'facilitators',
-      //   desc: 'desc_facilitators',
-      //   faicon: ['fas', 'graduation-cap']
-      // },
-      // {
-      //   name: 'programs',
-      //   link: 'programs',
-      //   desc: 'desc_programs',
-      //   faicon: ['fas', 'desktop']
-      // },
+      {
+        name: 'opencourses',
+        link: 'opencourses',
+        desc: '',
+        faicon: ['fas', 'graduation-cap']
+      },
+      {
+        name: 'globalpoliticaleconomywebinars',
+        link: 'globalpoliticaleconomywebinars',
+        desc: '',
+        faicon: ['fas', 'comment']
+      },
+      {
+        name: 'perspective',
+        link: 'perspective',
+        desc: '',
+        faicon: ['fas', 'glasses']
+      },
+      {
+        name: 'bulletin',
+        link: 'bulletin',
+        desc: '',
+        faicon: ['fas', 'newspaper']
+      },
+      {
+        name: 'lecturesonecovisionaryleadership',
+        link: 'lecturesonecovisionaryleadership',
+        desc: '',
+        faicon: ['fas', 'graduation-cap']
+      },
+      {
+        name: 'socialsolidarityprojects',
+        link: 'socialsolidarityprojects',
+        desc: '',
+        faicon: ['fas', 'graduation-cap']
+      },
+      {
+        name: 'talesbyfazilhoca',
+        link: 'talesbyfazilhoca',
+        desc: '',
+        faicon: ['fas', 'comment']
+      },
       {
         name: 'applicationform',
         link: 'applicationform',
@@ -184,6 +208,24 @@ export default {
       //   }
       //   ],
       //   open: false
+      // },
+      // {
+      //   name: 'chairsmessage',
+      //   link: 'chairsmessage',
+      //   desc: 'desc_chairsmessage',
+      //   faicon: ['fas', 'comment']
+      // },
+      // {
+      //   name: 'facilitators',
+      //   link: 'facilitators',
+      //   desc: 'desc_facilitators',
+      //   faicon: ['fas', 'graduation-cap']
+      // },
+      // {
+      //   name: 'programs',
+      //   link: 'programs',
+      //   desc: 'desc_programs',
+      //   faicon: ['fas', 'desktop']
       // },
       ],
       showContainer: false
