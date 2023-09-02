@@ -61,7 +61,7 @@ export default {
   data () {
     return {
       showModal: false,
-      headTitle: this.$t('programs') + ' | ' + this.$t('title'),
+      headTitle: this.$t('opencourses') + ' | ' + this.$t('title'),
       headerTitle: '',
       headerParagraph: '',
       headerImage: ''

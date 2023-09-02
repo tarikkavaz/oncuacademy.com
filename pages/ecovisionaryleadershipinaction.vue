@@ -43,7 +43,7 @@ export default {
   data () {
     return {
       showModal: false,
-      headTitle: this.$t('ourlearningfacilitators') + ' | ' + this.$t('title'),
+      headTitle: this.$t('ecovisionaryleadershipinaction') + ' | ' + this.$t('title'),
       headerTitle: '',
       headerParagraph: '',
       headerImage: ''

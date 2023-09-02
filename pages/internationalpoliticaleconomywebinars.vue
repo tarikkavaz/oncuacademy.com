@@ -44,7 +44,7 @@ export default {
   data () {
     return {
       showModal: false,
-      headTitle: this.$t('ourlearningfacilitators') + ' | ' + this.$t('title'),
+      headTitle: this.$t('internationalpoliticaleconomywebinars') + ' | ' + this.$t('title'),
       headerTitle: '',
       headerParagraph: '',
       headerImage: ''
