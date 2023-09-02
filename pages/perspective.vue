@@ -6,7 +6,8 @@
           <div class="lg:col-strong-2 lg:col-start-2 lg:row-start-1 lg:mx-auto lg:grid lg:w-full lg:max-w-7xl lg:grid-cols-1 lg:gap-x-8 lg:px-8">
             <div class="lg:pr-4">
               <div class="lg:max-w-lg">
-                &nbsp;
+                <p>Öncü Perspective, an initiative under Öncü Academy, aims to provide insights into the weekly agenda around the World and Turkey. Ahmet Öncü and Sabri Öncü, under the facilitation of Sinan Haskan, invite you to engage in collective reflection on the increasingly uncertain future, both globally and within Turkey.</p>
+                <p>For your questions, suggestions, and critiques, please feel free to reach out to us at admin@oncuacademy.com.</p>
               </div>
             </div>
           </div>
@@ -22,7 +23,9 @@
           <div class="lg:col-strong-2 lg:col-start-2 lg:row-start-1 lg:mx-auto lg:grid lg:w-full lg:max-w-7xl lg:grid-cols-1 lg:gap-x-8 lg:px-8">
             <div class="lg:pr-4">
               <div class="lg:max-w-lg">
-                &nbsp;
+                <p>Öncü Bakış, Öncü Akademi kapsamında sürdürülen bir çalışma olup Youtube ve Spotify üzerinden haftalık olarak yayınlanıyor. Kapitalist Dünya Sistemi ve Siyasal İktisat perspektiflerinden Dünya ve Türkiye'de haftanın gündemine yorumlar getirmeye çalışıyor. Ahmet Öncü ve Sabri Öncü, Sinan Haskan'ın uyumlaştırıcılığında giderek belirsizleşen gelecek hakkında sizleri birlikte düşünmeye çağırıyor.</p>
+                <p>Youtube kanalımıza üye olmayı unutmayın!</p>
+                <p>Soru, öneri ve eleştirileriniz için admin@oncuacademy.com adresine yazabilirsiniz.</p>
               </div>
             </div>
           </div>
@@ -64,8 +67,8 @@ export default {
     updateHeader () {
       const headerTitle =
         this.$i18n.locale === 'en'
-          ? 'Perspective'
-          : 'Bakış'
+          ? 'Öncü Perspective'
+          : 'Öncü Bakış'
       const headerParagraph =
         this.$i18n.locale === 'en'
           ? ' '

@@ -6,7 +6,7 @@
           <div class="lg:col-span-2 lg:col-start-2 lg:row-start-1 lg:mx-auto lg:grid lg:w-full lg:max-w-7xl lg:grid-cols-1 lg:gap-x-8 lg:px-8">
             <div class="lg:pr-4">
               <div class="lg:max-w-lg">
-                -
+                <p>ELA is a certificate program co-offered by Kadir Has University and Öncü Academy</p>
               </div>
             </div>
           </div>
@@ -22,7 +22,7 @@
           <div class="lg:col-span-2 lg:col-start-2 lg:row-start-1 lg:mx-auto lg:grid lg:w-full lg:max-w-7xl lg:grid-cols-1 lg:gap-x-8 lg:px-8">
             <div class="lg:pr-4">
               <div class="lg:max-w-lg">
-                -
+                <p>ELA is a certificate program co-offered by Kadir Has University and Öncü Academy</p>
               </div>
             </div>
           </div>
@@ -64,12 +64,12 @@ export default {
     updateHeader () {
       const headerTitle =
         this.$i18n.locale === 'en'
-          ? 'XXX'
-          : 'XXX'
+          ? 'Ecovisionary Leadership in Action (ELA)'
+          : 'Ecovisionary Leadership in Action (ELA)'
       const headerParagraph =
         this.$i18n.locale === 'en'
-          ? 'xxx.'
-          : 'xxx.'
+          ? ' '
+          : ' '
       const headerImage =
         this.$i18n.locale === 'en'
           ? '/images/mj2.png'

@@ -133,7 +133,7 @@ export default {
       },
       {
         name: 'oncubakis',
-        link: 'oncubakis',
+        link: 'perspective',
         desc: '',
         faicon: ['fas', 'graduation-cap']
       },
