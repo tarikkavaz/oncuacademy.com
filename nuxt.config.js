@@ -100,6 +100,9 @@ export default {
           lecturesonecovisionaryleadership: 'Lectures on EcoVisionary Leadership',
           socialsolidarityprojects: 'Social Solidarity Projects',
           talesbyfazilhoca: 'Tales by Fazıl Hoca',
+          internationalpoliticaleconomywebinars: 'International Political Economy Webinars',
+          ecovisionaryleadershipinaction: 'Ecovisionary Leadership in Action (ELA)',
+          oncubakis: 'Öncü Perspective',
 
           // Description
           desc_whoweare: 'Academy Without Borders',
@@ -148,6 +151,9 @@ export default {
           lecturesonecovisionaryleadership: 'EkoVizyoner Liderlik Konuşmaları',
           socialsolidarityprojects: 'Toplumsal Dayanışma Projeleri',
           talesbyfazilhoca: 'Fazıl Hoca’dan Masallar',
+          internationalpoliticaleconomywebinars: 'Uluslararası Siyasi İktisat Web Seminerleri',
+          ecovisionaryleadershipinaction: 'Ecovisionary Leadership in Action (ELA)',
+          oncubakis: 'Öncü Bakış',
 
           // Description
           desc_whoweare: 'Sınırları Olmayan Akademi',
@@ -170,21 +176,9 @@ export default {
         en: '/who-we-are',
         tr: '/biz-kimiz'
       },
-      chairsmessage: {
-        en: '/in-the-wake-of-new-beginnings',
-        tr: '/yeni-baslangiclarin-kapisi'
-      },
-      // facilitators: {
-      //   en: '/our-learning-facilitators',
-      //   tr: '/oncu-academy-ekibi'
-      // },
-      programs: {
-        en: '/certificate-programs-and-courses',
-        tr: '/sertifikalar-moduller-ve-dersler'
-      },
-      careers: {
-        en: '/careers',
-        tr: '/kariyer'
+      xxx: {
+        en: '/xxx',
+        tr: '/xxx'
       },
       applicationform: {
         en: '/apply',

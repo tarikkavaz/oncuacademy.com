@@ -87,9 +87,7 @@
                     <div>
                       {{ $t('contact') }}
                     </div>
-                    <div class="text-xs opacity-60 idesc">
-                      {{ $t('desc_contact') }}
-                    </div>
+                    <div class="text-xs opacity-60 idesc" />
                   </div>
                 </div>
               </a>
@@ -112,7 +110,7 @@ export default {
       items: [{
         name: 'whoweare',
         link: '/',
-        desc: 'desc_whoweare',
+        desc: '',
         faicon: ['fas', 'home']
       },
       {
@@ -122,32 +120,20 @@ export default {
         faicon: ['fas', 'graduation-cap']
       },
       {
-        name: 'globalpoliticaleconomywebinars',
-        link: 'globalpoliticaleconomywebinars',
-        desc: '',
-        faicon: ['fas', 'comment']
-      },
-      {
-        name: 'perspective',
-        link: 'perspective',
-        desc: '',
-        faicon: ['fas', 'glasses']
-      },
-      {
-        name: 'bulletin',
-        link: 'bulletin',
-        desc: '',
-        faicon: ['fas', 'newspaper']
-      },
-      {
-        name: 'lecturesonecovisionaryleadership',
-        link: 'lecturesonecovisionaryleadership',
+        name: 'internationalpoliticaleconomywebinars',
+        link: 'internationalpoliticaleconomywebinars',
         desc: '',
         faicon: ['fas', 'graduation-cap']
       },
       {
-        name: 'socialsolidarityprojects',
-        link: 'socialsolidarityprojects',
+        name: 'ecovisionaryleadershipinaction',
+        link: 'ecovisionaryleadershipinaction',
+        desc: '',
+        faicon: ['fas', 'graduation-cap']
+      },
+      {
+        name: 'oncubakis',
+        link: 'oncubakis',
         desc: '',
         faicon: ['fas', 'graduation-cap']
       },
@@ -156,77 +142,7 @@ export default {
         link: 'talesbyfazilhoca',
         desc: '',
         faicon: ['fas', 'comment']
-      },
-      {
-        name: 'applicationform',
-        link: 'applicationform',
-        desc: 'desc_applicationform',
-        faicon: ['fas', 'list']
-      },
-      {
-        name: 'careers',
-        link: 'careers',
-        desc: 'desc_careers',
-        faicon: ['fas', 'briefcase']
       }
-      // {
-      //   name: 'contact',
-      //   link: 'contact',
-      //   desc: 'desc_contact',
-      //   faicon: ['fas', 'phone']
-      // }
-      // {
-      //   name: 'services',
-      //   desc: 'desc_sub',
-      //   faicon: ['fas', 'graduation-cap'],
-      //   subItems: [{
-      //     name: 'pagea',
-      //     link: 'page_a'
-      //   },
-      //   {
-      //     name: 'pageb',
-      //     link: 'page_b'
-      //   },
-      //   {
-      //     name: 'pagec',
-      //     link: 'page_c'
-      //   }
-      //   ],
-      //   open: false
-      // },
-      // {
-      //   name: 'another',
-      //   desc: 'desc_sub',
-      //   faicon: ['fas', 'award'],
-      //   subItems: [{
-      //     name: 'paged',
-      //     link: 'page_d'
-      //   },
-      //   {
-      //     name: 'pagee',
-      //     link: 'page_e'
-      //   }
-      //   ],
-      //   open: false
-      // },
-      // {
-      //   name: 'chairsmessage',
-      //   link: 'chairsmessage',
-      //   desc: 'desc_chairsmessage',
-      //   faicon: ['fas', 'comment']
-      // },
-      // {
-      //   name: 'facilitators',
-      //   link: 'facilitators',
-      //   desc: 'desc_facilitators',
-      //   faicon: ['fas', 'graduation-cap']
-      // },
-      // {
-      //   name: 'programs',
-      //   link: 'programs',
-      //   desc: 'desc_programs',
-      //   faicon: ['fas', 'desktop']
-      // },
       ],
       showContainer: false
     }
