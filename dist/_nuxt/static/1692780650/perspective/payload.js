@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/perspective", {data:[{}],fetch:{},mutations:[]});

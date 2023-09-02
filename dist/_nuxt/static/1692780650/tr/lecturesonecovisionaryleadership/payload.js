@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/tr/lecturesonecovisionaryleadership", {data:[{}],fetch:{},mutations:[]});

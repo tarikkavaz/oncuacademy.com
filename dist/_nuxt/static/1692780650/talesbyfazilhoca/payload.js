@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/talesbyfazilhoca", {data:[{}],fetch:{},mutations:[]});

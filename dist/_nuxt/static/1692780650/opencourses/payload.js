@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/opencourses", {data:[{}],fetch:{},mutations:[]});
