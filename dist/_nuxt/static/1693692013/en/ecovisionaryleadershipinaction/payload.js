@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/en/ecovisionaryleadershipinaction", {data:[{}],fetch:{},mutations:[]});
