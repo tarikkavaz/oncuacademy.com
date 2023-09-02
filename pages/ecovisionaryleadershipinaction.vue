@@ -7,6 +7,7 @@
             <div class="lg:pr-4">
               <div class="lg:max-w-lg">
                 <p>ELA is a certificate program co-offered by Kadir Has University and Öncü Academy</p>
+                <p><a href="/docs/oncu.pdf" class="underline">Click here for more info</a></p>
               </div>
             </div>
           </div>
@@ -23,6 +24,7 @@
             <div class="lg:pr-4">
               <div class="lg:max-w-lg">
                 <p>ELA is a certificate program co-offered by Kadir Has University and Öncü Academy</p>
+                <p><a href="/docs/oncu.pdf" class="underline">Click here for more info</a></p>
               </div>
             </div>
           </div>
