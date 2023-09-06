@@ -12,9 +12,6 @@
           <p class="mt-2 text-3xl font-bold tracking-tight text-white sm:text-4xl">
             {{ $t('heretohelp') }}
           </p>
-          <div class="inline-block mt-8 mr-12">
-            <a href="tel:00905325843293" class="inline-flex rounded-md bg-white/20 px-3.5 py-2.5 text-sm font-semibold text-white shadow-sm hover:bg-white/30 focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-white">+90 532 584 32 93</a>
-          </div>
           <div class="inline-block mt-8">
             <a href="mailto:info@oncuacademy.com" class="inline-flex rounded-md bg-white/20 px-3.5 py-2.5 text-sm font-semibold text-white shadow-sm hover:bg-white/30 focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-white">info@oncuacademy.com</a>
           </div>
